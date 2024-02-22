@@ -42,17 +42,17 @@
 <br>
 
 ## 협업 툴
-### Notion
-<img src="https://github.com/kksung/ssg_final/assets/110016279/4a5c2c7d-61b0-4dc3-b4d6-fd353c940e7c" width=450 height=200>
+### 1 - Notion
+<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/93c29574-c7a0-4fe5-af5f-e3d260678b0a" width=450 height=200>
 
-### Googld Drive
-<img src="https://github.com/kksung/ssg_final/assets/110016279/ae8b2a01-e964-4534-8ac1-5a4e7827155f" width=450 height=200>
+### 2 - Googld Drive
+<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/7e0b1602-5ff4-427c-a162-d87f43e183cf" width=450 height=200>
 
-### Discord
-<img src="https://github.com/kksung/ssg_final/assets/110016279/0159549b-f45b-41b9-89a0-df4ba855097a" width=450 height=200>
+### 3 - Discord
+<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/744cf2da-6c75-4f79-822a-568a75be6bd7" width=400 height=200>
 
 ## Infrastructure
-<img src="https://github.com/kksung/ssg_project/assets/110016279/2e18126f-ad2e-4719-afa2-8ecf7bf584aa" width=870 height=550>
+<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
 
 ## 프로젝트 개선 방향
 - Terraform을 활용한 추가 사용자 자동화
