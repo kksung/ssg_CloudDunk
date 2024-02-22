@@ -22,6 +22,15 @@
 
 <br>
 
+## 수행 역할 기술 정리 - Detail
+[LoadBalancer](https://github.com/kksung/ALB-API)
+
+[ASG+CICD](https://github.com/kksung/ASG_CICD-AppUserBE)
+
+[Monitoring](https://github.com/kksung/Monitoring-AppUserBE)
+
+<br>
+
 ## 기술 스택
 - Cloud Infra
 
