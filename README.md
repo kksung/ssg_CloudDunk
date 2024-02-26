@@ -9,7 +9,7 @@
 <br>
 
 ## 프로젝트 소개
-- 관리자 웹페이지 및 사용자 앱을 AWS + NCP 클라우드 인프라에 구축하고 운영 및 자동화하는 프로젝트입니다.
+- 관리자 웹페이지 및 사용자 앱 1세트를 AWS + NCP 클라우드 인프라에 구축하고 운영 및 자동화하는 프로젝트입니다.
 
 <br>
 
@@ -19,15 +19,6 @@
 |팀장|김기성|AWS 사용자단 구축, LB, ASG, CICD, 모니터링|
 |팀원|신명호|NCP 관리자단 구축, 클라우드 비용 계산, 서류 작업|
 |팀원|윤석현|AWS 관리자단 구축, 데이터베이스, AWS-NCP 연동|
-
-<br>
-
-## 수행 역할 기술 정리 - Detail
-[LoadBalancer](https://github.com/kksung/ALB-API)
-
-[ASG+CICD](https://github.com/kksung/ASG_CICD-AppUserBE)
-
-[Monitoring](https://github.com/kksung/Monitoring-AppUserBE)
 
 <br>
 
@@ -63,7 +54,22 @@
 ## Infrastructure
 <img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
 
+## 프로젝트 결론 및 이점 
+- 늘어나는 사용자에 대한 인프라 유연성 확보 -> 벤더 종속성 탈피
+- AWS 인프라 이중화 구성 및 다양한 서비스 활용, 운영 및 자동화 환경까지 구성하여 가용성과 편의성 확보
+
+<br>
+
 ## 프로젝트 개선 방향
 - Terraform을 활용한 추가 사용자 자동화
 - 모니터링 관리자 알람 시스템 부재
 - 비용적 측면에서의 최적화 필요
+
+<br>
+
+## 수행 역할 기술 정리 Detail - !README
+[LoadBalancer](https://github.com/kksung/ALB-API)
+
+[ASG+CICD](https://github.com/kksung/ASG_CICD-AppUserBE)
+
+[Monitoring](https://github.com/kksung/Monitoring-AppUserBE)
