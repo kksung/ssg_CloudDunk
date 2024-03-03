@@ -9,7 +9,7 @@
 <br>
 
 ## 프로젝트 소개
-- 관리자 웹페이지 및 사용자 앱 1세트를 AWS + NCP 클라우드 인프라에 구축하고 운영 및 자동화하는 프로젝트입니다.
+- 관리자 웹페이지 및 사용자 앱을 AWS + NCP 클라우드 인프라에 구축하고 운영 및 자동화하는 프로젝트입니다.
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ![Static Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=GitHubActions&logoColor=FFFFFF)
 
-- Development
+- Development 
 
 ![Static Badge](https://img.shields.io/badge/React-000000?logo=React&logoColor=61DAFB)  ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask) ![Static Badge](https://img.shields.io/badge/React_Native-000000?logo=React&logoColor=61DAFB) ![Static Badge](https://img.shields.io/badge/Expo-000020?logo=Expo&logoColor=FFFFFF) 
 
@@ -51,23 +51,31 @@
 ### 3 - Discord
 <img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/744cf2da-6c75-4f79-822a-568a75be6bd7" width=400 height=200>
 
+### 협업 수행 방법 - Daily
+- 오전 09:30~10:30 시간 내 데일리 스크럼 진행
+- 진행상황 브리핑 및 피드백
+- 당일 TO-Do List 설정 및 역할 분배 -> 데드라인 설정 
+- 구글 드라이브 내 회의록 작성
+  
+<br>
+
 ## Infrastructure
 <img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
 
-## 프로젝트 결론 및 이점 
-- 늘어나는 사용자에 대한 인프라 유연성 확보 -> 벤더 종속성 탈피
-- AWS 인프라 이중화 구성 및 다양한 서비스 활용, 운영 및 자동화 환경까지 구성하여 가용성과 편의성 확보
+## 프로젝트 결론 및 이점
+- 늘어나는 사용자에 대한 인프라 유연성 확보 -> '벤더 종속성 탈피'
+- AWS 인프라 이중화 구성 및 다양한 서비스 활용, 운영 및 자동화 환경까지 구성하여 '가용성'과 '편의성' 확보
 
 <br>
 
 ## 프로젝트 개선 방향
-- Terraform을 활용한 추가 사용자 자동화
-- 모니터링 관리자 알람 시스템 부재
-- 비용적 측면에서의 최적화 필요
+- Terraform 활용 -> 추가 사용자 앱 구축 자동화  
+- 모니터링 -> 관리자 알람 시스템 구축
+- 비용적 측면에서의 최적화
 
 <br>
 
-## 수행 역할 기술 정리 Detail - !README
+## !수행 역할 기술 정리 Detail - README
 [LoadBalancer](https://github.com/kksung/ALB-API)
 
 [ASG+CICD](https://github.com/kksung/ASG_CICD-AppUserBE)
